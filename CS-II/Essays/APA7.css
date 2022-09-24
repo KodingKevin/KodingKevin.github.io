@@ -1,0 +1,43 @@
+
+p{
+    color: white;
+    font-family: TimesNewRoman;
+    text-indent: 40px;
+    font-size:150%;
+}
+h2{
+    color:DodgerBlue;
+    font-size:300%;
+    font-weight:bold;
+    text-align:center;
+}
+
+h3{
+    color: white;
+    font-size:180%;
+    line-height:200%;
+    font-weight:bold;
+}
+
+h4{
+    color: white;
+    font-size:150%;
+    line-height:200%;
+    text-align: center;
+}
+body {
+    background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/05/Black-Abstract-HD-Wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+} 
+
+div{
+    margin:auto;
+    width:1500px;
+    justify-content: center;
+}
+
+
+
+
