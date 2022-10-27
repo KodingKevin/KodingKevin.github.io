@@ -1,11 +1,7 @@
-
 <!DOCTYPE html>
-<html lang="en">
-  <title>
-    Projects
-  </title>
-  
+<html 
   <button type="button" onclick="window.location.href = 'index.html';">Back</button>
+
   <style>
     body {
 	background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/05/Black-Abstract-HD-Wallpaper.jpg');
@@ -31,11 +27,8 @@
   </style>
   <body>
     <p class="title"> MY PROJECTS </p>
-    <a class="fancy" href="CS-II/Projects/Optimal Sort.html">Optimal Sorting</a>
+    <a class="fancy" href="CS-II/Essays/Fingerprints.html">Optimal Sorting</a>
     <br> </br>
-    <a class="fancy" href="CS-II/Projects/Business Plan/index.html">ISP Purposal</a>
-    <br> </br>
-    <a class="fancy" href="CS-II/Projects/Business Plan/considered.html">ISP considered</a>
     
   </body>
 </html>

@@ -1,0 +1,68 @@
+
+@keyframes head{
+    0% {background-color: red;}
+    15% {background-color: orange;}
+    30% {background-color:yellow;}
+    45% {background-color:green;}
+    60% {background-color:cyan;}
+    75% {background-color:blue;}
+    90% {background-color:purple;}
+    100% {background-color:pink;}
+}
+a{
+    color:cyan;
+    text-align:center;
+    font-family: TimesNewRoman;
+    font-size:170%;
+    
+}
+
+h1 {
+    font-family: TimesNewRoman;
+    font-size:400%;
+    color:gray;
+    text-align:center;
+    animation-name: head;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    
+}
+h2 {
+    font-family: TimesNewRoman;
+    font-size:250%;
+    color: green;
+    text-align: center;
+}
+h3 {
+    font-family: TimesNewRoman;
+    font-size:170%;
+    color: cyan;
+    text-align: center;
+}
+h4 {
+    font-family: TimesNewRoman;
+    font-size:160%;
+    color: red;
+    text-align: center;
+}
+
+p {
+    font-family: TimesNewRoman;
+    line-height:150%;
+    font-size:150%;
+    text-align: center;
+    color: white;
+    font-family: TimesNewRoman;
+}
+div{
+    margin:auto;
+    width:1500px;
+    text-align: center;
+}
+body {
+    background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/05/Black-Abstract-HD-Wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+} 
+

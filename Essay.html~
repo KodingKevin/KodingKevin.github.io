@@ -1,0 +1,27 @@
+<html>
+
+  <button type="button" onclick="window.location.href = 'index.html';">Back</button>
+
+  <style>
+    body {
+	background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/05/Black-Abstract-HD-Wallpaper.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+    }
+  </style>
+  
+  <style>
+    .title{
+	color:DodgerBlue;
+	font-size:400%;
+	font-weight:bold;
+    }  </style>
+
+  <body>
+    <p class="title"> MY ESSAYS </p>
+    <a href="CS-II/Essays/Fingerprints.html">Fingerprint</a>
+    <a href="CS-II/Essays/AI Sentience.html">AI Sentience</a>
+    
+  </body>
+</html>

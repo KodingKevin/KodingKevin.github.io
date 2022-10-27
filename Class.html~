@@ -1,0 +1,22 @@
+<html>
+  <button type="button" onclick="window.location.href = 'index.html';">About Me</button><button onclick="window.location.href = 'projects.html';">previous projects</button><button onclick="window.location.href = 'Class.html';">Class taken</button>
+  <style>
+    body {
+	background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/05/Black-Abstract-HD-Wallpaper.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+    }
+  </style>
+  
+  <body>
+   
+    <h2 style="color:DodgerBlue;"> Classes Taken</h2>
+    <p style="color:Orange;"> Comience </p>
+    <p style="color:SlateBlue;"> Fund of Computer Science 1</p>
+    <h3 style="color:DodgerBlue;"> How does these classes help</h3>
+    <p style="color:Tomato;"> These classes will create my path into the career of Computer science</p>
+    <p style="color:MediumSeaGreen;"> These math classes will support and improve my logical thinking skills</p>
+  </body>
+  
+</html>

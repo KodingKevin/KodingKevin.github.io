@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <title>
+    AI Sentient
+    </title>
+
+  <form>
+    <input type="button" value="Back" onclick="history.back()">
+  </form>
+
+  <style>
+    body{
+	background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/05/Black-Abstract-HD-Wallpaper.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+    }
+    
+  </style>
+  <style>
+    .title{
+	color:DodgerBlue;
+	font-size:400%;
+	font-weight:bold;
+    }
+  </style>
+  
+  <style>
+    .fancy{
+	color: white;
+	font-size:150%;
+	line-height:200%;
+	text-indent:60pt;
+	
+    }
+  </style>
+  
+  <body>
+    
+    <p class="title"> Sentience AI will lead to the downfall of humans </p>  
+    <p class="fancy"> It's been decades since we have developed the first artificial intelligence program. As time passes we often wish to improve our technologies even further to the point that artificial intelligences will one day be sentient. However, this could one day lead to the eventual downfall of man kind. It it shown that a chatbot with our current programming knowledge can already talk to humans perfectly fine while also having the ability to make the human talking it to feel companied. This shows that eventually AIs will one day be able to convince humans to do what they wishes. They can take over everything that we humans processes and could even take over doing all the jobs for us. That sounds nice at first but that will eventually just leads to the devolution of humans. With the creation of a sentience artificial intelligence humans will eventually fall due to either the AIs or to our own nature. Also Having the thoughts of an artificial intelligence that moves and talks like a human around us are genuinely just terrifing to me.</p>
+  </body>
+
+</html>
